@@ -1,0 +1,1160 @@
+﻿2024-06-20 19:27:41.1837 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-20 19:27:41.2218 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-20 19:27:41.2218 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-20 19:27:41.2425 Info Configuration initialized.
+2024-06-20 19:37:31.0517 Info AppDomain Shutting down. LogFactory closing...
+2024-06-20 19:37:31.0691 Info LogFactory has been closed.
+2024-06-21 00:13:23.7617 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 00:13:23.8044 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 00:13:23.8044 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 00:13:23.8229 Info Configuration initialized.
+2024-06-21 00:14:46.9844 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 00:14:47.0092 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 00:14:47.0176 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 00:14:47.0300 Info Configuration initialized.
+2024-06-21 00:18:44.9514 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 00:18:44.9728 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 00:18:44.9833 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 00:18:44.9833 Info Configuration initialized.
+2024-06-21 00:33:23.4464 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 00:33:23.4784 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 00:33:23.4922 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 00:33:23.5046 Info Configuration initialized.
+2024-06-21 13:14:45.6676 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 13:14:45.6914 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 13:14:45.6914 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 13:14:45.7055 Info Configuration initialized.
+2024-06-21 13:14:46.8259 Info AppDomain Shutting down. LogFactory closing...
+2024-06-21 13:14:46.8310 Info LogFactory has been closed.
+2024-06-21 13:15:38.9366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 13:15:38.9366 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 13:15:38.9535 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 13:15:38.9535 Info Configuration initialized.
+2024-06-21 13:15:40.1093 Info AppDomain Shutting down. LogFactory closing...
+2024-06-21 13:15:40.1093 Info LogFactory has been closed.
+2024-06-21 14:22:54.4469 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 14:22:54.4872 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 14:22:54.4872 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 14:22:54.5048 Info Configuration initialized.
+2024-06-21 14:24:40.3501 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 14:24:40.3756 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 14:24:40.3756 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 14:24:40.3991 Info Configuration initialized.
+2024-06-21 14:24:55.1664 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 14:24:55.1960 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 14:24:55.2070 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 14:24:55.2070 Info Configuration initialized.
+2024-06-21 14:33:00.8092 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 14:33:00.8285 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 14:33:00.8285 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 14:33:00.8285 Info Configuration initialized.
+2024-06-21 15:12:14.9306 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 15:12:14.9577 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 15:12:14.9673 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 15:12:14.9673 Info Configuration initialized.
+2024-06-21 15:16:46.7837 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 15:16:46.8127 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 15:16:46.8213 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 15:16:46.8331 Info Configuration initialized.
+2024-06-21 18:44:33.4007 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 18:44:33.4261 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 18:44:33.4261 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 18:44:33.4481 Info Configuration initialized.
+2024-06-21 18:45:01.8623 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 18:45:01.8883 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 18:45:01.9039 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 18:45:01.9184 Info Configuration initialized.
+2024-06-21 21:47:51.9032 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 21:47:51.9333 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 21:47:51.9513 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 21:47:51.9645 Info Configuration initialized.
+2024-06-21 21:48:29.8353 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 21:48:29.8811 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 21:48:29.9059 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 21:48:29.9285 Info Configuration initialized.
+2024-06-21 21:52:25.0615 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 21:52:25.1250 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 21:52:25.1471 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 21:52:25.1770 Info Configuration initialized.
+2024-06-21 21:53:22.2690 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 21:53:22.3009 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 21:53:22.3151 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 21:53:22.3266 Info Configuration initialized.
+2024-06-21 22:18:30.2889 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 22:18:30.3234 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 22:18:30.3234 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 22:18:30.3477 Info Configuration initialized.
+2024-06-21 22:26:30.9857 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 22:26:31.0218 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 22:26:31.0354 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 22:26:31.0354 Info Configuration initialized.
+2024-06-21 22:26:44.4123 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 22:26:44.4487 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 22:26:44.4641 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 22:26:44.4786 Info Configuration initialized.
+2024-06-21 22:29:16.0114 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 22:29:16.0682 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 22:29:16.0874 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 22:29:16.1026 Info Configuration initialized.
+2024-06-21 22:39:43.7760 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 22:39:43.7983 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 22:39:43.8179 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 22:39:43.8432 Info Configuration initialized.
+2024-06-21 22:39:45.1907 Info AppDomain Shutting down. LogFactory closing...
+2024-06-21 22:39:45.1907 Info LogFactory has been closed.
+2024-06-21 22:40:16.2951 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 22:40:16.3102 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 22:40:16.3102 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 22:40:16.3347 Info Configuration initialized.
+2024-06-21 22:40:17.8738 Info AppDomain Shutting down. LogFactory closing...
+2024-06-21 22:40:17.8813 Info LogFactory has been closed.
+2024-06-21 22:41:55.3675 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 22:41:55.3841 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 22:41:55.3841 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 22:41:55.4032 Info Configuration initialized.
+2024-06-21 22:41:56.7666 Info AppDomain Shutting down. LogFactory closing...
+2024-06-21 22:41:56.7737 Info LogFactory has been closed.
+2024-06-21 22:42:47.0534 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 22:42:47.0683 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 22:42:47.0819 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 22:42:47.0967 Info Configuration initialized.
+2024-06-21 22:42:48.3402 Info AppDomain Shutting down. LogFactory closing...
+2024-06-21 22:42:48.3470 Info LogFactory has been closed.
+2024-06-21 22:43:47.9629 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-21 22:43:47.9830 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-21 22:43:47.9930 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-21 22:43:48.0063 Info Configuration initialized.
+2024-06-21 22:43:50.0856 Info AppDomain Shutting down. LogFactory closing...
+2024-06-21 22:43:50.1012 Info LogFactory has been closed.
+2024-06-22 14:49:37.9650 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 14:49:37.9859 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 14:49:37.9921 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 14:49:37.9921 Info Configuration initialized.
+2024-06-22 14:49:38.6891 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 14:49:38.6891 Info LogFactory has been closed.
+2024-06-22 14:49:46.2076 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 14:49:46.2181 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 14:49:46.2181 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 14:49:46.2181 Info Configuration initialized.
+2024-06-22 14:49:47.0464 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 14:49:47.0464 Info LogFactory has been closed.
+2024-06-22 14:50:19.5345 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 14:50:19.5470 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 14:50:19.5470 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 14:50:19.5470 Info Configuration initialized.
+2024-06-22 14:50:20.5598 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 14:50:20.5598 Info LogFactory has been closed.
+2024-06-22 14:51:01.2307 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 14:51:01.2409 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 14:51:01.2409 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 14:51:01.2537 Info Configuration initialized.
+2024-06-22 14:51:02.5678 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 14:51:02.5678 Info LogFactory has been closed.
+2024-06-22 14:52:07.1029 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 14:52:07.1513 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 14:52:07.1513 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 14:52:07.1673 Info Configuration initialized.
+2024-06-22 15:07:09.4984 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 15:07:09.5199 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 15:07:09.5265 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 15:07:09.5265 Info Configuration initialized.
+2024-06-22 15:07:10.4244 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 15:07:10.4295 Info LogFactory has been closed.
+2024-06-22 15:09:36.7005 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 15:09:36.7005 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 15:09:36.7195 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 15:09:36.7195 Info Configuration initialized.
+2024-06-22 15:09:37.2828 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 15:09:37.2828 Info LogFactory has been closed.
+2024-06-22 15:09:40.4967 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 15:09:40.5067 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 15:09:40.5067 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 15:09:40.5067 Info Configuration initialized.
+2024-06-22 15:09:44.2093 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 15:09:44.2154 Info LogFactory has been closed.
+2024-06-22 15:10:42.0817 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 15:10:42.0937 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 15:10:42.0994 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 15:10:42.0994 Info Configuration initialized.
+2024-06-22 15:10:43.0019 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 15:10:43.0019 Info LogFactory has been closed.
+2024-06-22 15:11:26.9926 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 15:11:26.9926 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 15:11:27.0086 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 15:11:27.0086 Info Configuration initialized.
+2024-06-22 15:11:28.3274 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 15:11:28.3274 Info LogFactory has been closed.
+2024-06-22 15:12:05.7624 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 15:12:05.8013 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 15:12:05.8101 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 15:12:05.8101 Info Configuration initialized.
+2024-06-22 15:13:11.9276 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 15:13:11.9458 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 15:13:11.9458 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 15:13:11.9616 Info Configuration initialized.
+2024-06-22 15:59:58.1927 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 15:59:58.2044 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 15:59:58.2103 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 15:59:58.2103 Info Configuration initialized.
+2024-06-22 15:59:59.1018 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 15:59:59.1074 Info LogFactory has been closed.
+2024-06-22 16:00:55.7412 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 16:00:55.7412 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 16:00:55.7590 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 16:00:55.7590 Info Configuration initialized.
+2024-06-22 16:00:56.9723 Info AppDomain Shutting down. LogFactory closing...
+2024-06-22 16:00:56.9779 Info LogFactory has been closed.
+2024-06-22 16:01:39.6726 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 16:01:39.6985 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 16:01:39.7094 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 16:01:39.7230 Info Configuration initialized.
+2024-06-22 21:44:26.3972 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 21:44:26.4214 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 21:44:26.4328 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 21:44:26.4328 Info Configuration initialized.
+2024-06-22 21:48:16.1142 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 21:48:16.1325 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 21:48:16.1325 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 21:48:16.1475 Info Configuration initialized.
+2024-06-22 21:55:43.0802 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 21:55:43.0980 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 21:55:43.1066 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 21:55:43.1066 Info Configuration initialized.
+2024-06-22 21:56:45.2401 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 21:56:45.2706 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 21:56:45.2851 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 21:56:45.2851 Info Configuration initialized.
+2024-06-22 22:01:03.1796 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 22:01:03.2013 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 22:01:03.2013 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 22:01:03.2239 Info Configuration initialized.
+2024-06-22 22:11:28.8690 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 22:11:28.8877 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 22:11:28.8877 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 22:11:28.9051 Info Configuration initialized.
+2024-06-22 22:25:40.5182 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 22:25:40.5375 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 22:25:40.5450 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 22:25:40.5450 Info Configuration initialized.
+2024-06-22 22:29:32.7547 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 22:29:32.7784 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 22:29:32.7889 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 22:29:32.7889 Info Configuration initialized.
+2024-06-22 23:02:33.9922 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-22 23:02:34.0158 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-22 23:02:34.0272 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-22 23:02:34.0440 Info Configuration initialized.
+2024-06-25 09:20:16.9480 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 09:20:16.9592 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 09:20:16.9592 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 09:20:16.9711 Info Configuration initialized.
+2024-06-25 09:20:18.2215 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 09:20:18.2215 Info LogFactory has been closed.
+2024-06-25 09:20:32.1671 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 09:20:32.1775 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 09:20:32.1775 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 09:20:32.1775 Info Configuration initialized.
+2024-06-25 09:20:33.4341 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 09:20:33.4341 Info LogFactory has been closed.
+2024-06-25 10:12:22.5100 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 10:12:22.5353 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 10:12:22.5411 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 10:12:22.5411 Info Configuration initialized.
+2024-06-25 10:12:23.5937 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 10:12:23.5937 Info LogFactory has been closed.
+2024-06-25 10:12:59.2431 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 10:12:59.2538 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 10:12:59.2538 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 10:12:59.2661 Info Configuration initialized.
+2024-06-25 10:13:00.5419 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 10:13:00.5471 Info LogFactory has been closed.
+2024-06-25 10:42:14.1238 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 10:42:14.1971 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 10:42:14.1971 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 10:42:14.2149 Info Configuration initialized.
+2024-06-25 14:20:17.0776 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 14:20:17.1345 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 14:20:17.1345 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 14:20:17.1521 Info Configuration initialized.
+2024-06-25 14:21:18.8440 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 14:21:18.8612 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 14:21:18.8612 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 14:21:18.8795 Info Configuration initialized.
+2024-06-25 15:09:15.1063 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 15:09:15.1295 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 15:09:15.1365 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 15:09:15.1483 Info Configuration initialized.
+2024-06-25 15:27:39.9384 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 15:27:39.9666 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 15:27:39.9770 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 15:27:39.9874 Info Configuration initialized.
+2024-06-25 15:29:16.6296 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 15:29:16.6518 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 15:29:16.6606 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 15:29:16.6606 Info Configuration initialized.
+2024-06-25 15:31:21.3930 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 15:31:21.4208 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 15:31:21.4323 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 15:31:21.4435 Info Configuration initialized.
+2024-06-25 15:35:23.4825 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 15:35:23.5028 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 15:35:23.5028 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 15:35:23.5219 Info Configuration initialized.
+2024-06-25 15:36:19.1811 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 15:36:19.2022 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 15:36:19.2112 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 15:36:19.2236 Info Configuration initialized.
+2024-06-25 15:42:02.1697 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 15:42:02.1919 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 15:42:02.1919 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 15:42:02.2137 Info Configuration initialized.
+2024-06-25 15:45:17.2796 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 15:45:17.3010 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 15:45:17.3010 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 15:45:17.3290 Info Configuration initialized.
+2024-06-25 20:43:47.9639 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 20:43:48.0106 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 20:43:48.0220 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 20:43:48.0220 Info Configuration initialized.
+2024-06-25 20:58:55.7187 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 20:58:55.7288 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 20:58:55.7288 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 20:58:55.7420 Info Configuration initialized.
+2024-06-25 20:58:56.8393 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 20:58:56.8393 Info LogFactory has been closed.
+2024-06-25 21:00:38.8012 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 21:00:38.8012 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 21:00:38.8170 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 21:00:38.8170 Info Configuration initialized.
+2024-06-25 21:00:40.1951 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 21:00:40.1951 Info LogFactory has been closed.
+2024-06-25 21:01:13.4464 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 21:01:13.4584 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 21:01:13.4584 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 21:01:13.4740 Info Configuration initialized.
+2024-06-25 21:01:14.5786 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 21:01:14.5835 Info LogFactory has been closed.
+2024-06-25 21:09:58.1890 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 21:09:58.1890 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 21:09:58.2095 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 21:09:58.2095 Info Configuration initialized.
+2024-06-25 21:09:59.4894 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 21:09:59.4894 Info LogFactory has been closed.
+2024-06-25 21:10:30.0229 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 21:10:30.0337 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 21:10:30.0337 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 21:10:30.0337 Info Configuration initialized.
+2024-06-25 21:10:31.1731 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 21:10:31.1806 Info LogFactory has been closed.
+2024-06-25 21:11:06.0091 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 21:11:06.0204 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 21:11:06.0204 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 21:11:06.0362 Info Configuration initialized.
+2024-06-25 21:11:07.4727 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 21:11:07.4727 Info LogFactory has been closed.
+2024-06-25 22:47:06.2297 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:47:06.2532 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:47:06.2593 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:47:06.2593 Info Configuration initialized.
+2024-06-25 22:47:06.7318 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:47:06.7373 Info LogFactory has been closed.
+2024-06-25 22:48:09.9788 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:48:09.9788 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:48:09.9953 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:48:09.9953 Info Configuration initialized.
+2024-06-25 22:48:10.4886 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:48:10.4886 Info LogFactory has been closed.
+2024-06-25 22:49:48.9718 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:49:48.9833 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:49:48.9901 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:49:48.9901 Info Configuration initialized.
+2024-06-25 22:49:49.4597 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:49:49.4597 Info LogFactory has been closed.
+2024-06-25 22:50:17.1238 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:50:17.1342 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:50:17.1342 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:50:17.1342 Info Configuration initialized.
+2024-06-25 22:50:18.1177 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:50:18.1177 Info LogFactory has been closed.
+2024-06-25 22:53:30.6219 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:53:30.6343 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:53:30.6343 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:53:30.6343 Info Configuration initialized.
+2024-06-25 22:53:32.1379 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:53:32.1435 Info LogFactory has been closed.
+2024-06-25 22:53:42.3326 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:53:42.3874 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:53:42.3874 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:53:42.4027 Info Configuration initialized.
+2024-06-25 22:54:42.0499 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:54:42.0598 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:54:42.0598 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:54:42.0720 Info Configuration initialized.
+2024-06-25 22:54:42.9850 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:54:42.9900 Info LogFactory has been closed.
+2024-06-25 22:55:11.4539 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:55:11.4659 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:55:11.4659 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:55:11.4832 Info Configuration initialized.
+2024-06-25 22:55:12.4070 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:55:12.4070 Info LogFactory has been closed.
+2024-06-25 22:55:53.4931 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:55:53.5029 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:55:53.5029 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:55:53.5146 Info Configuration initialized.
+2024-06-25 22:55:54.4326 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:55:54.4326 Info LogFactory has been closed.
+2024-06-25 22:56:00.2703 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:56:00.2804 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:56:00.2804 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:56:00.2804 Info Configuration initialized.
+2024-06-25 22:56:01.6130 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:56:01.6130 Info LogFactory has been closed.
+2024-06-25 22:56:09.8637 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:56:09.8832 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:56:09.8832 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:56:09.8832 Info Configuration initialized.
+2024-06-25 22:58:03.7827 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:58:03.8003 Info LogFactory has been closed.
+2024-06-25 22:58:24.6442 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:58:24.6623 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:58:24.6623 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:58:24.6837 Info Configuration initialized.
+2024-06-25 22:59:24.5812 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 22:59:24.5922 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 22:59:24.5922 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 22:59:24.6064 Info Configuration initialized.
+2024-06-25 22:59:25.6269 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 22:59:25.6269 Info LogFactory has been closed.
+2024-06-25 23:00:37.2062 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 23:00:37.2187 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 23:00:37.2253 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 23:00:37.2253 Info Configuration initialized.
+2024-06-25 23:00:38.5982 Info AppDomain Shutting down. LogFactory closing...
+2024-06-25 23:00:38.5982 Info LogFactory has been closed.
+2024-06-25 23:01:03.0114 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-25 23:01:03.0327 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-25 23:01:03.0429 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-25 23:01:03.0546 Info Configuration initialized.
+2024-06-29 23:58:40.1399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-29 23:58:40.1809 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-29 23:58:40.1809 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-29 23:58:40.1965 Info Configuration initialized.
+2024-06-30 00:04:57.4513 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 00:04:57.4734 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 00:04:57.4734 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 00:04:57.5022 Info Configuration initialized.
+2024-06-30 13:06:15.5241 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 13:06:15.5666 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 13:06:15.5736 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 13:06:15.5736 Info Configuration initialized.
+2024-06-30 13:23:17.3973 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 13:23:17.4149 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 13:23:17.4149 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 13:23:17.4311 Info Configuration initialized.
+2024-06-30 13:49:44.3450 Info AppDomain Shutting down. LogFactory closing...
+2024-06-30 13:49:44.3640 Info LogFactory has been closed.
+2024-06-30 13:52:24.9279 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 13:52:24.9484 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 13:52:24.9484 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 13:52:24.9484 Info Configuration initialized.
+2024-06-30 15:10:33.8339 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 15:10:33.8551 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 15:10:33.8663 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 15:10:33.8759 Info Configuration initialized.
+2024-06-30 15:18:06.7430 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 15:18:06.7607 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 15:18:06.7703 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 15:18:06.7819 Info Configuration initialized.
+2024-06-30 15:22:59.7268 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 15:22:59.7454 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 15:22:59.7570 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 15:22:59.7718 Info Configuration initialized.
+2024-06-30 15:23:26.5169 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 15:23:26.5356 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 15:23:26.5356 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 15:23:26.5577 Info Configuration initialized.
+2024-06-30 16:28:25.4527 Info AppDomain Shutting down. LogFactory closing...
+2024-06-30 16:28:25.4527 Info LogFactory has been closed.
+2024-06-30 19:14:31.2055 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 19:14:31.2292 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 19:14:31.2292 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 19:14:31.2539 Info Configuration initialized.
+2024-06-30 20:43:09.6839 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 20:43:09.7042 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 20:43:09.7042 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 20:43:09.7225 Info Configuration initialized.
+2024-06-30 20:43:50.3793 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 20:43:50.3996 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 20:43:50.4087 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 20:43:50.4087 Info Configuration initialized.
+2024-06-30 20:46:29.5954 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 20:46:29.6183 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 20:46:29.6304 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 20:46:29.6390 Info Configuration initialized.
+2024-06-30 20:47:58.8932 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 20:47:58.8932 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 20:47:58.9193 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 20:47:58.9193 Info Configuration initialized.
+2024-06-30 20:49:18.4924 Info AppDomain Shutting down. LogFactory closing...
+2024-06-30 20:49:18.5035 Info LogFactory has been closed.
+2024-06-30 21:12:47.1076 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 21:12:47.1271 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 21:12:47.1271 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 21:12:47.1450 Info Configuration initialized.
+2024-06-30 21:14:29.3391 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 21:14:29.3615 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 21:14:29.3705 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 21:14:29.3705 Info Configuration initialized.
+2024-06-30 22:20:05.0173 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 22:20:05.0403 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 22:20:05.0524 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 22:20:05.0614 Info Configuration initialized.
+2024-06-30 22:20:06.7872 Info AppDomain Shutting down. LogFactory closing...
+2024-06-30 22:20:06.7978 Info LogFactory has been closed.
+2024-06-30 22:20:22.2580 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 22:20:22.2781 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 22:20:22.2781 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 22:20:22.2985 Info Configuration initialized.
+2024-06-30 22:33:00.7973 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 22:33:00.8168 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 22:33:00.8248 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 22:33:00.8248 Info Configuration initialized.
+2024-06-30 22:35:46.7084 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 22:35:46.7286 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 22:35:46.7363 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 22:35:46.7494 Info Configuration initialized.
+2024-06-30 22:37:00.4159 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 22:37:00.4466 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 22:37:00.4580 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 22:37:00.4738 Info Configuration initialized.
+2024-06-30 22:40:29.1059 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-06-30 22:40:29.1319 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-06-30 22:40:29.1428 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-06-30 22:40:29.1554 Info Configuration initialized.
+2024-07-01 11:10:55.1329 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 11:10:55.1788 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 11:10:55.1886 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 11:10:55.1886 Info Configuration initialized.
+2024-07-01 11:14:32.5445 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 11:14:32.5660 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 11:14:32.5741 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 11:14:32.5741 Info Configuration initialized.
+2024-07-01 11:25:06.6256 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 11:25:06.6480 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 11:25:06.6558 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 11:25:06.6558 Info Configuration initialized.
+2024-07-01 13:09:14.9676 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 13:09:15.0284 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 13:09:15.0284 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 13:09:15.0475 Info Configuration initialized.
+2024-07-01 14:11:12.3402 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 14:11:12.3597 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 14:11:12.3597 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 14:11:12.3772 Info Configuration initialized.
+2024-07-01 14:36:13.5303 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 14:36:13.5528 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 14:36:13.5631 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 14:36:13.5745 Info Configuration initialized.
+2024-07-01 16:27:02.9422 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 16:27:02.9614 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 16:27:02.9685 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 16:27:02.9685 Info Configuration initialized.
+2024-07-01 16:28:07.4682 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 16:28:07.4967 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 16:28:07.4967 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 16:28:07.5206 Info Configuration initialized.
+2024-07-01 16:28:18.0632 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 16:28:18.0752 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 16:28:18.0752 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 16:28:18.0881 Info Configuration initialized.
+2024-07-01 16:28:19.1768 Info AppDomain Shutting down. LogFactory closing...
+2024-07-01 16:28:19.1832 Info LogFactory has been closed.
+2024-07-01 16:28:34.7761 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 16:28:34.7761 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 16:28:34.7761 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 16:28:34.7970 Info Configuration initialized.
+2024-07-01 16:28:36.0342 Info AppDomain Shutting down. LogFactory closing...
+2024-07-01 16:28:36.0342 Info LogFactory has been closed.
+2024-07-01 16:34:50.7469 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 16:34:50.7750 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 16:34:50.7819 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 16:34:50.7819 Info Configuration initialized.
+2024-07-01 16:34:51.8059 Info AppDomain Shutting down. LogFactory closing...
+2024-07-01 16:34:51.8105 Info LogFactory has been closed.
+2024-07-01 16:34:56.9818 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 16:34:56.9818 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 16:34:56.9981 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 16:34:56.9981 Info Configuration initialized.
+2024-07-01 16:34:58.0858 Info AppDomain Shutting down. LogFactory closing...
+2024-07-01 16:34:58.0903 Info LogFactory has been closed.
+2024-07-01 16:35:25.3268 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 16:35:25.3710 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 16:35:25.3710 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 16:35:25.3906 Info Configuration initialized.
+2024-07-01 17:36:35.7111 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 17:36:35.7209 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 17:36:35.7209 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 17:36:35.7335 Info Configuration initialized.
+2024-07-01 17:36:36.6887 Info AppDomain Shutting down. LogFactory closing...
+2024-07-01 17:36:36.6887 Info LogFactory has been closed.
+2024-07-01 17:36:50.8297 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-01 17:36:50.8391 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-01 17:36:50.8391 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-01 17:36:50.8391 Info Configuration initialized.
+2024-07-01 17:36:52.1849 Info AppDomain Shutting down. LogFactory closing...
+2024-07-01 17:36:52.1849 Info LogFactory has been closed.
+2024-07-02 00:25:47.5902 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:25:47.6073 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:25:47.6188 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:25:47.6188 Info Configuration initialized.
+2024-07-02 00:25:49.8005 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:25:49.8005 Info LogFactory has been closed.
+2024-07-02 00:26:50.4328 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:26:50.4484 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:26:50.4567 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:26:50.4567 Info Configuration initialized.
+2024-07-02 00:26:53.2881 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:26:53.3020 Info LogFactory has been closed.
+2024-07-02 00:35:09.1315 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:35:09.1486 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:35:09.1486 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:35:09.1653 Info Configuration initialized.
+2024-07-02 00:35:10.8614 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:35:10.8614 Info LogFactory has been closed.
+2024-07-02 00:35:18.6542 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:35:18.6804 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:35:18.6941 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:35:18.7113 Info Configuration initialized.
+2024-07-02 00:35:20.5009 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:35:20.5083 Info LogFactory has been closed.
+2024-07-02 00:35:27.4756 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:35:27.5012 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:35:27.5186 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:35:27.5379 Info Configuration initialized.
+2024-07-02 00:35:30.3598 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:35:30.3598 Info LogFactory has been closed.
+2024-07-02 00:36:16.4834 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:36:16.5032 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:36:16.5032 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:36:16.5320 Info Configuration initialized.
+2024-07-02 00:36:18.4741 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:36:18.4886 Info LogFactory has been closed.
+2024-07-02 00:37:00.5723 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:37:00.5723 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:37:00.6012 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:37:00.6162 Info Configuration initialized.
+2024-07-02 00:37:02.3602 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:37:02.3602 Info LogFactory has been closed.
+2024-07-02 00:37:11.6217 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:37:11.6440 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:37:11.6524 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:37:11.6614 Info Configuration initialized.
+2024-07-02 00:37:14.0344 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:37:14.0498 Info LogFactory has been closed.
+2024-07-02 00:37:26.5733 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:37:26.5942 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:37:26.6145 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:37:26.6356 Info Configuration initialized.
+2024-07-02 00:37:28.6416 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:37:28.6528 Info LogFactory has been closed.
+2024-07-02 00:37:34.2291 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:37:34.2499 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:37:34.2619 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:37:34.2805 Info Configuration initialized.
+2024-07-02 00:37:35.8254 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:37:35.8254 Info LogFactory has been closed.
+2024-07-02 00:37:56.9384 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:37:56.9638 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:37:56.9781 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:37:56.9944 Info Configuration initialized.
+2024-07-02 00:37:59.7419 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:37:59.7522 Info LogFactory has been closed.
+2024-07-02 00:39:13.5875 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:39:13.6080 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:39:13.6170 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:39:13.6346 Info Configuration initialized.
+2024-07-02 00:39:15.4457 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:39:15.4560 Info LogFactory has been closed.
+2024-07-02 00:39:22.4157 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:39:22.4296 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:39:22.4380 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:39:22.4380 Info Configuration initialized.
+2024-07-02 00:39:24.8169 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:39:24.8263 Info LogFactory has been closed.
+2024-07-02 00:39:28.3035 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:39:28.3194 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:39:28.3194 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:39:28.3408 Info Configuration initialized.
+2024-07-02 00:39:30.1375 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:39:30.1375 Info LogFactory has been closed.
+2024-07-02 00:39:35.2814 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 00:39:35.3050 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 00:39:35.3172 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 00:39:35.3172 Info Configuration initialized.
+2024-07-02 00:39:37.3437 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 00:39:37.3564 Info LogFactory has been closed.
+2024-07-02 13:54:51.4671 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 13:54:51.4802 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 13:54:51.4802 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 13:54:51.4802 Info Configuration initialized.
+2024-07-02 13:54:53.1146 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 13:54:53.1202 Info LogFactory has been closed.
+2024-07-02 13:55:03.7152 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 13:55:03.7152 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 13:55:03.7312 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 13:55:03.7312 Info Configuration initialized.
+2024-07-02 13:55:05.6728 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 13:55:05.6728 Info LogFactory has been closed.
+2024-07-02 13:56:37.0333 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 13:56:37.0720 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 13:56:37.0814 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 13:56:37.0895 Info Configuration initialized.
+2024-07-02 14:17:41.9954 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 14:17:41.9954 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 14:17:42.0130 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 14:17:42.0130 Info Configuration initialized.
+2024-07-02 14:17:43.3851 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 14:17:43.3904 Info LogFactory has been closed.
+2024-07-02 14:18:24.8843 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 14:18:24.8987 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 14:18:24.9062 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 14:18:24.9062 Info Configuration initialized.
+2024-07-02 14:18:26.4916 Info AppDomain Shutting down. LogFactory closing...
+2024-07-02 14:18:26.4964 Info LogFactory has been closed.
+2024-07-02 14:18:32.8496 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-02 14:18:32.8855 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-02 14:18:32.9049 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-02 14:18:32.9186 Info Configuration initialized.
+2024-07-07 16:41:50.8767 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-07 16:41:50.8994 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-07 16:41:50.8994 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-07 16:41:50.8994 Info Configuration initialized.
+2024-07-07 16:41:52.9914 Info AppDomain Shutting down. LogFactory closing...
+2024-07-07 16:41:52.9914 Info LogFactory has been closed.
+2024-07-07 16:42:15.8371 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-07 16:42:15.8371 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-07 16:42:15.8528 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-07 16:42:15.8528 Info Configuration initialized.
+2024-07-07 16:42:17.8406 Info AppDomain Shutting down. LogFactory closing...
+2024-07-07 16:42:17.8406 Info LogFactory has been closed.
+2024-07-07 16:46:01.9264 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-07 16:46:01.9264 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-07 16:46:01.9447 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-07 16:46:01.9447 Info Configuration initialized.
+2024-07-07 16:46:03.6997 Info AppDomain Shutting down. LogFactory closing...
+2024-07-07 16:46:03.6997 Info LogFactory has been closed.
+2024-07-07 16:49:39.7125 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-07 16:49:39.7258 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-07 16:49:39.7323 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-07 16:49:39.7323 Info Configuration initialized.
+2024-07-07 16:49:41.5671 Info AppDomain Shutting down. LogFactory closing...
+2024-07-07 16:49:41.5671 Info LogFactory has been closed.
+2024-07-08 10:16:30.9582 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 10:16:30.9827 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 10:16:30.9883 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 10:16:30.9883 Info Configuration initialized.
+2024-07-08 10:16:32.6702 Info AppDomain Shutting down. LogFactory closing...
+2024-07-08 10:16:32.6762 Info LogFactory has been closed.
+2024-07-08 10:16:46.5306 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 10:16:46.5419 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 10:16:46.5419 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 10:16:46.5533 Info Configuration initialized.
+2024-07-08 10:16:48.2992 Info AppDomain Shutting down. LogFactory closing...
+2024-07-08 10:16:48.2992 Info LogFactory has been closed.
+2024-07-08 10:16:56.6415 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 10:16:56.6524 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 10:16:56.6524 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 10:16:56.6656 Info Configuration initialized.
+2024-07-08 10:16:58.1147 Info AppDomain Shutting down. LogFactory closing...
+2024-07-08 10:16:58.1147 Info LogFactory has been closed.
+2024-07-08 10:18:03.4077 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 10:18:03.4077 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 10:18:03.4237 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 10:18:03.4237 Info Configuration initialized.
+2024-07-08 10:18:05.1829 Info AppDomain Shutting down. LogFactory closing...
+2024-07-08 10:18:05.1829 Info LogFactory has been closed.
+2024-07-08 10:57:09.5094 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 10:57:09.5240 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 10:57:09.5240 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 10:57:09.5240 Info Configuration initialized.
+2024-07-08 10:57:11.5568 Info AppDomain Shutting down. LogFactory closing...
+2024-07-08 10:57:11.5625 Info LogFactory has been closed.
+2024-07-08 10:57:25.6506 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 10:57:25.6624 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 10:57:25.6624 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 10:57:25.6752 Info Configuration initialized.
+2024-07-08 10:57:27.4089 Info AppDomain Shutting down. LogFactory closing...
+2024-07-08 10:57:27.4089 Info LogFactory has been closed.
+2024-07-08 10:57:37.6838 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 10:57:37.6946 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 10:57:37.6946 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 10:57:37.7090 Info Configuration initialized.
+2024-07-08 10:57:39.5695 Info AppDomain Shutting down. LogFactory closing...
+2024-07-08 10:57:39.5695 Info LogFactory has been closed.
+2024-07-08 10:59:06.3211 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 10:59:06.3315 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 10:59:06.3315 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 10:59:06.3315 Info Configuration initialized.
+2024-07-08 10:59:08.2129 Info AppDomain Shutting down. LogFactory closing...
+2024-07-08 10:59:08.2129 Info LogFactory has been closed.
+2024-07-08 10:59:41.4649 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 10:59:41.4768 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 10:59:41.4829 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 10:59:41.4829 Info Configuration initialized.
+2024-07-08 10:59:43.2749 Info AppDomain Shutting down. LogFactory closing...
+2024-07-08 10:59:43.2802 Info LogFactory has been closed.
+2024-07-08 11:01:45.5171 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 11:01:45.5586 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 11:01:45.5586 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 11:01:45.5773 Info Configuration initialized.
+2024-07-08 11:05:15.1817 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 11:05:15.2041 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 11:05:15.2041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 11:05:15.2216 Info Configuration initialized.
+2024-07-08 11:09:09.0310 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 11:09:09.0542 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 11:09:09.0542 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 11:09:09.0759 Info Configuration initialized.
+2024-07-08 11:10:29.2960 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 11:10:29.3258 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 11:10:29.3258 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 11:10:29.3552 Info Configuration initialized.
+2024-07-08 11:18:20.5714 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 11:18:20.6063 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 11:18:20.6209 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 11:18:20.6209 Info Configuration initialized.
+2024-07-08 11:19:37.1536 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 11:19:37.1858 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 11:19:37.2029 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 11:19:37.2175 Info Configuration initialized.
+2024-07-08 13:33:48.2057 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 13:33:48.2520 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 13:33:48.2520 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 13:33:48.2667 Info Configuration initialized.
+2024-07-08 13:34:30.2844 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-08 13:34:30.3240 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-08 13:34:30.3399 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-08 13:34:30.3581 Info Configuration initialized.
+2024-07-09 16:12:43.4553 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-09 16:12:43.5309 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-09 16:12:43.5426 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-09 16:12:43.5426 Info Configuration initialized.
+2024-07-10 09:28:24.3860 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 09:28:24.3985 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 09:28:24.3985 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 09:28:24.4133 Info Configuration initialized.
+2024-07-10 09:28:26.7537 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 09:28:26.7594 Info LogFactory has been closed.
+2024-07-10 09:29:01.4368 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 09:29:01.4511 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 09:29:01.4599 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 09:29:01.4599 Info Configuration initialized.
+2024-07-10 09:29:03.3810 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 09:29:03.3810 Info LogFactory has been closed.
+2024-07-10 10:19:59.6809 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 10:19:59.7227 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 10:19:59.7315 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 10:19:59.7414 Info Configuration initialized.
+2024-07-10 10:24:31.6025 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 10:24:31.6025 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 10:24:31.6240 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 10:24:31.6321 Info Configuration initialized.
+2024-07-10 10:24:54.1404 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 10:24:54.1489 Info LogFactory has been closed.
+2024-07-10 10:38:59.5658 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 10:38:59.5941 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 10:38:59.6064 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 10:38:59.6194 Info Configuration initialized.
+2024-07-10 14:45:00.0288 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 14:45:00.1558 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 14:45:00.1766 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 14:45:00.2105 Info Configuration initialized.
+2024-07-10 15:19:49.1562 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 15:19:49.1737 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 15:19:49.1820 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 15:19:49.1820 Info Configuration initialized.
+2024-07-10 15:19:52.4802 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 15:19:52.4887 Info LogFactory has been closed.
+2024-07-10 15:21:59.0827 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 15:21:59.0973 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 15:21:59.1055 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 15:21:59.1055 Info Configuration initialized.
+2024-07-10 15:22:02.4492 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 15:22:02.4492 Info LogFactory has been closed.
+2024-07-10 15:33:28.5074 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 15:33:28.5225 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 15:33:28.5306 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 15:33:28.5306 Info Configuration initialized.
+2024-07-10 15:33:31.4307 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 15:33:31.4307 Info LogFactory has been closed.
+2024-07-10 15:34:08.6465 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 15:34:08.6790 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 15:34:08.6946 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 15:34:08.7084 Info Configuration initialized.
+2024-07-10 15:34:12.5911 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 15:34:12.5911 Info LogFactory has been closed.
+2024-07-10 15:39:48.6595 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 15:39:48.6773 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 15:39:48.6879 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 15:39:48.7145 Info Configuration initialized.
+2024-07-10 15:39:51.5710 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 15:39:51.5776 Info LogFactory has been closed.
+2024-07-10 15:40:21.2652 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 15:40:21.2904 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 15:40:21.3069 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 15:40:21.3274 Info Configuration initialized.
+2024-07-10 15:40:24.0502 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 15:40:24.0612 Info LogFactory has been closed.
+2024-07-10 16:25:49.6715 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 16:25:49.7022 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 16:25:49.7218 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 16:25:49.7418 Info Configuration initialized.
+2024-07-10 16:34:20.3101 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 16:34:20.3395 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 16:34:20.3560 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 16:34:20.3778 Info Configuration initialized.
+2024-07-10 16:40:30.1551 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 16:40:30.1892 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 16:40:30.2037 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 16:40:30.2213 Info Configuration initialized.
+2024-07-10 16:41:27.6419 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 16:41:27.6649 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 16:41:27.6649 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 16:41:27.6920 Info Configuration initialized.
+2024-07-10 18:01:08.4540 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 18:01:08.4851 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 18:01:08.4996 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 18:01:08.5157 Info Configuration initialized.
+2024-07-10 18:16:29.3907 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 18:16:29.4103 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 18:16:29.4218 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 18:16:29.4368 Info Configuration initialized.
+2024-07-10 18:16:32.7593 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 18:16:32.7747 Info LogFactory has been closed.
+2024-07-10 18:17:11.5118 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 18:17:11.5255 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 18:17:11.5332 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 18:17:11.5332 Info Configuration initialized.
+2024-07-10 18:17:15.0624 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 18:17:15.0743 Info LogFactory has been closed.
+2024-07-10 18:17:25.0168 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 18:17:25.0470 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 18:17:25.0470 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 18:17:25.0747 Info Configuration initialized.
+2024-07-10 18:18:59.0687 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 18:18:59.1002 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 18:18:59.1151 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 18:18:59.1311 Info Configuration initialized.
+2024-07-10 18:19:27.5208 Info AppDomain Shutting down. LogFactory closing...
+2024-07-10 18:19:27.5455 Info LogFactory has been closed.
+2024-07-10 18:20:27.6744 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 18:20:27.7031 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 18:20:27.7161 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 18:20:27.7316 Info Configuration initialized.
+2024-07-10 18:45:53.6162 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-10 18:45:53.6523 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-10 18:45:53.6739 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-10 18:45:53.6971 Info Configuration initialized.
+2024-07-22 18:42:52.1599 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-22 18:42:52.2213 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-22 18:42:52.2361 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-22 18:42:52.2540 Info Configuration initialized.
+2024-07-22 23:23:52.5471 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-22 23:23:52.5973 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-22 23:23:52.6156 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-22 23:23:52.6372 Info Configuration initialized.
+2024-07-23 12:10:34.1237 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 12:10:34.1735 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 12:10:34.1735 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 12:10:34.1916 Info Configuration initialized.
+2024-07-23 12:31:29.3827 Info AppDomain Shutting down. LogFactory closing...
+2024-07-23 12:31:29.4060 Info LogFactory has been closed.
+2024-07-23 13:01:32.7462 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 13:01:32.8155 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 13:01:32.8363 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 13:01:32.8660 Info Configuration initialized.
+2024-07-23 14:19:59.3224 Info AppDomain Shutting down. LogFactory closing...
+2024-07-23 14:19:59.3443 Info LogFactory has been closed.
+2024-07-23 14:47:15.9851 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 14:47:16.0871 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 14:47:16.1138 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 14:47:16.1346 Info Configuration initialized.
+2024-07-23 18:03:00.4711 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 18:03:00.5082 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 18:03:00.5391 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 18:03:00.5666 Info Configuration initialized.
+2024-07-23 18:29:45.8592 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 18:29:45.9879 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 18:29:46.0393 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 18:29:46.1240 Info Configuration initialized.
+2024-07-23 18:35:36.4565 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 18:35:36.5267 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 18:35:36.5580 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 18:35:36.5893 Info Configuration initialized.
+2024-07-23 18:40:31.2807 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 18:40:31.3549 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 18:40:31.4067 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 18:40:31.4929 Info Configuration initialized.
+2024-07-23 18:42:07.5673 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 18:42:07.6139 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 18:42:07.6340 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 18:42:07.6578 Info Configuration initialized.
+2024-07-23 18:42:48.4493 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 18:42:48.5030 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 18:42:48.5261 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 18:42:48.5574 Info Configuration initialized.
+2024-07-23 18:45:31.5371 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 18:45:31.5656 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 18:45:31.5656 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 18:45:31.5912 Info Configuration initialized.
+2024-07-23 18:53:13.8596 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 18:53:13.8845 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 18:53:13.8957 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 18:53:13.9094 Info Configuration initialized.
+2024-07-23 18:54:27.8063 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 18:54:27.8347 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 18:54:27.8462 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 18:54:27.8462 Info Configuration initialized.
+2024-07-23 18:59:03.1488 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 18:59:03.1973 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 18:59:03.2166 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 18:59:03.2770 Info Configuration initialized.
+2024-07-23 20:30:38.4502 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-23 20:30:38.4801 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-23 20:30:38.4942 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-23 20:30:38.5162 Info Configuration initialized.
+2024-07-24 14:51:31.0393 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-24 14:51:31.0794 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-24 14:51:31.0794 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-24 14:51:31.0993 Info Configuration initialized.
+2024-07-24 23:31:10.6058 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-24 23:31:10.6450 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-24 23:31:10.6549 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-24 23:31:10.6549 Info Configuration initialized.
+2024-07-25 13:20:22.5370 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 13:20:22.5777 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 13:20:22.5870 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 13:20:22.5870 Info Configuration initialized.
+2024-07-25 13:38:09.4297 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 13:38:09.4808 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 13:38:09.4917 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 13:38:09.4917 Info Configuration initialized.
+2024-07-25 13:40:44.9228 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 13:40:44.9464 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 13:40:44.9553 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 13:40:44.9553 Info Configuration initialized.
+2024-07-25 13:46:05.7007 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 13:46:05.7154 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 13:46:05.7154 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 13:46:05.7305 Info Configuration initialized.
+2024-07-25 13:46:07.8064 Info AppDomain Shutting down. LogFactory closing...
+2024-07-25 13:46:07.8124 Info LogFactory has been closed.
+2024-07-25 13:46:54.1476 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 13:46:54.1476 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 13:46:54.1677 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 13:46:54.1677 Info Configuration initialized.
+2024-07-25 13:46:55.6231 Info AppDomain Shutting down. LogFactory closing...
+2024-07-25 13:46:55.6297 Info LogFactory has been closed.
+2024-07-25 13:47:46.4452 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 13:47:46.4552 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 13:47:46.4552 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 13:47:46.4552 Info Configuration initialized.
+2024-07-25 13:47:48.6007 Info AppDomain Shutting down. LogFactory closing...
+2024-07-25 13:47:48.6007 Info LogFactory has been closed.
+2024-07-25 13:47:56.3314 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 13:47:56.3547 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 13:47:56.3626 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 13:47:56.3762 Info Configuration initialized.
+2024-07-25 14:12:16.2338 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 14:12:16.2525 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 14:12:16.2525 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 14:12:16.2525 Info Configuration initialized.
+2024-07-25 17:57:42.6140 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 17:57:42.6339 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 17:57:42.6431 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 17:57:42.6548 Info Configuration initialized.
+2024-07-25 19:33:41.1979 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 19:33:41.2165 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 19:33:41.2165 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 19:33:41.2337 Info Configuration initialized.
+2024-07-25 20:38:27.4785 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 20:38:27.5087 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 20:38:27.5211 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 20:38:27.5345 Info Configuration initialized.
+2024-07-25 20:48:34.7744 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 20:48:34.8382 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 20:48:34.8511 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 20:48:34.8649 Info Configuration initialized.
+2024-07-25 20:50:02.7859 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 20:50:02.8105 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 20:50:02.8309 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 20:50:02.8518 Info Configuration initialized.
+2024-07-25 20:51:45.5523 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 20:51:45.5758 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 20:51:45.5758 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 20:51:45.5952 Info Configuration initialized.
+2024-07-25 21:26:25.6154 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 21:26:25.6346 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 21:26:25.6420 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 21:26:25.6536 Info Configuration initialized.
+2024-07-25 22:09:53.2930 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 22:09:53.3279 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 22:09:53.3410 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 22:09:53.3410 Info Configuration initialized.
+2024-07-25 22:17:30.1927 Info AppDomain Shutting down. LogFactory closing...
+2024-07-25 22:17:30.2299 Info LogFactory has been closed.
+2024-07-25 22:17:36.3698 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 22:17:36.4016 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 22:17:36.4144 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 22:17:36.4305 Info Configuration initialized.
+2024-07-25 22:19:46.5945 Info AppDomain Shutting down. LogFactory closing...
+2024-07-25 22:19:46.6316 Info LogFactory has been closed.
+2024-07-25 22:20:45.2565 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 22:20:45.2918 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 22:20:45.3122 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 22:20:45.3304 Info Configuration initialized.
+2024-07-25 22:33:02.7153 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 22:33:02.7153 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 22:33:02.7374 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 22:33:02.7374 Info Configuration initialized.
+2024-07-25 22:33:05.6195 Info AppDomain Shutting down. LogFactory closing...
+2024-07-25 22:33:05.6195 Info LogFactory has been closed.
+2024-07-25 22:33:51.4771 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 22:33:51.4771 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 22:33:51.5012 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 22:33:51.5115 Info Configuration initialized.
+2024-07-25 22:33:55.5889 Info AppDomain Shutting down. LogFactory closing...
+2024-07-25 22:33:55.5993 Info LogFactory has been closed.
+2024-07-25 22:34:26.5844 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 22:34:26.6197 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 22:34:26.6414 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 22:34:26.6576 Info Configuration initialized.
+2024-07-25 22:51:25.9858 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 22:51:26.0143 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 22:51:26.0299 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 22:51:26.0299 Info Configuration initialized.
+2024-07-25 23:07:50.9218 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 23:07:50.9395 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 23:07:50.9395 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 23:07:50.9603 Info Configuration initialized.
+2024-07-25 23:18:45.8212 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 23:18:45.8331 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 23:18:45.8418 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 23:18:45.8418 Info Configuration initialized.
+2024-07-25 23:18:47.8133 Info AppDomain Shutting down. LogFactory closing...
+2024-07-25 23:18:47.8133 Info LogFactory has been closed.
+2024-07-25 23:18:58.2696 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 23:18:58.2822 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 23:18:58.2822 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 23:18:58.3013 Info Configuration initialized.
+2024-07-25 23:19:00.7852 Info AppDomain Shutting down. LogFactory closing...
+2024-07-25 23:19:00.7852 Info LogFactory has been closed.
+2024-07-25 23:19:11.6213 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-25 23:19:11.6501 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-25 23:19:11.6654 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-25 23:19:11.6799 Info Configuration initialized.
+2024-07-26 00:23:31.3695 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-07-26 00:23:31.4555 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-07-26 00:23:31.4741 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Sargreas99\Desktop\Main\TobetoFinal\Backend\CarRental.WebAPI\nlog.config
+2024-07-26 00:23:31.4990 Info Configuration initialized.
